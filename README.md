@@ -247,6 +247,8 @@ The project uses a structured data model consisting of a fact table and supporti
 
 ---
 
-## 
+## 🔗 **Interactive Power BI Dashboard:**
+[https://app.powerbi.com/view?r=eyJrIjoiN2IwOThiMTItYzU4ZC00YzliLWIzODktMTU4NDg5NzZmMjA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]
 
-Bioengineering Graduate | Data Analytics Enthusiast | Power BI Developer
+
+
